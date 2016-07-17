@@ -41,23 +41,25 @@ My very last attempt at creating a full game engine in a (jam) rush.
 <details><summary>:open_file_folder:`res/`, resources to embed.</summary>
 </details>
 <details><summary>:open_file_folder:`src/`, source code</summary>
-<details><summary>:open_file_folder:` +- editor/`, editor source code</summary>
+<details><summary>:open_file_folder:` +- 3rd/`, third-party free-standing common libraries.</summary>
 </details>
-<details><summary>:open_file_folder:` +- engine/`, engine source code</summary>
+<details><summary>:open_file_folder:` +- editor/`, editor source code.</summary>
 </details>
-<details><summary>:open_file_folder:` +- launcher/`, launcher source code</summary>
+<details><summary>:open_file_folder:` +- engine/`, engine source code.</summary>
 </details>
-<details><summary>:open_file_folder:` +- game/`, blank game template</summary>
+<details><summary>:open_file_folder:` +- launcher/`, launcher source code.</summary>
 </details>
-<details><summary>:open_file_folder:` \- tutorial/`, tutorial source code</summary>
+<details><summary>:open_file_folder:` +- game/`, blank game template.</summary>
+</details>
+<details><summary>:open_file_folder:` \- tutorial/`, tutorial source code.</summary>
 </details>
 </details>
 <details><summary>:open_file_folder:`tmp/`, temporary directory.</summary>
 </details>
 <details><summary>:open_file_folder:`usr/`, overridable user content.</summary>
-<details><summary>:open_file_folder:` +- gid/`, overridable user content (per GID)</summary>
+<details><summary>:open_file_folder:` +- gid/`, group ID based content overrides.</summary>
 </details>
-<details><summary>:open_file_folder:` \- uid/`, overridable user content (per UID)</summary>
+<details><summary>:open_file_folder:` \- uid/`, user ID based content overrides.</summary>
 </details>
 </details>
 <details><summary>:open_file_folder:`wrk/`, working directory.</summary>
