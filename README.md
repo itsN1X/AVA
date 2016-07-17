@@ -22,18 +22,46 @@ My very last attempt at creating a full game engine in a (jam) rush.
 - [x] Heap allocations under control.
 
 ## Disk structure
-- :open_file_folder:`art/`, uncooked assets.
-- :open_file_folder:`bin/`, binary tools.
-- :open_file_folder:`doc/`, documentation.
-- :open_file_folder:`ide/`, ide project files.
-- :open_file_folder:`lib/`, library addons.
-- :open_file_folder:`pkg/`, packaged binaries.
-- :open_file_folder:`pub/`, public served content.
-- :open_file_folder:`res/`, resources to embed.
-- :open_file_folder:`src/`, source code.
-- :open_file_folder:`tmp/`, temporary directory.
-- :open_file_folder:`usr/`, overridable user content.
-- :open_file_folder:`wrk/`, working directory.
+<details><summary>:open_file_folder:`art/`, uncooked assets.</summary>
+</details>
+<details><summary>:open_file_folder:`bin/`, binary tools.</summary>
+</details>
+<details><summary>:open_file_folder:`doc/`, documentation.</summary>
+</details>
+<details><summary>:open_file_folder:`ide/`, ide project files.</summary>
+</details>
+<details><summary>:open_file_folder:`lib/`, library addons.</summary>
+</details>
+<details><summary>:open_file_folder:`pkg/`, packaged binaries.</summary>
+</details>
+<details><summary>:open_file_folder:`pub/`, public served content.</summary>
+<details><summary>:open_file_folder:` \- 8080/`, web service at localhost:8080</summary>
+</details>
+</details>
+<details><summary>:open_file_folder:`res/`, resources to embed.</summary>
+</details>
+<details><summary>:open_file_folder:`src/`, source code</summary>
+<details><summary>:open_file_folder:` +- editor/`, editor source code</summary>
+</details>
+<details><summary>:open_file_folder:` +- engine/`, engine source code</summary>
+</details>
+<details><summary>:open_file_folder:` +- launcher/`, launcher source code</summary>
+</details>
+<details><summary>:open_file_folder:` +- game/`, blank game template</summary>
+</details>
+<details><summary>:open_file_folder:` \- tutorial/`, tutorial source code</summary>
+</details>
+</details>
+<details><summary>:open_file_folder:`tmp/`, temporary directory.</summary>
+</details>
+<details><summary>:open_file_folder:`usr/`, overridable user content.</summary>
+<details><summary>:open_file_folder:` +- gid/`, overridable user content (per GID)</summary>
+</details>
+<details><summary>:open_file_folder:` \- uid/`, overridable user content (per UID)</summary>
+</details>
+</details>
+<details><summary>:open_file_folder:`wrk/`, working directory.</summary>
+</details>
 
 ## Code structure
 <details><summary>Coding convention</summary>
