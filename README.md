@@ -78,13 +78,13 @@ My very last attempt at creating a full game engine in a (jam) rush.
 ## Enums
 ```c++
       +-----------------------> bind, namespace: `AV` always
-      |  +--------------------> noun, namespace: uppercase always
+      |  +--------------------> enum, namespace: uppercase always, no underscore separator
       |  |          +---------> zero, reserved for invalid enumerations
-enum AV_MESSAGE {   |     +---> size, a list size entry is added as well
-      AV_MESSAGE_INVALID, |
-      AV_MESSAGE_1,       |
-      AV_MESSAGE_2,       |
-      AV_MESSAGE_TOTAL ---+
+enum AVMESSAGE {    |     +---> size, a list size entry is added as well
+      AVMESSAGE_INVALID, |
+      AVMESSAGE_1,       |
+      AVMESSAGE_2,       |
+      AVMESSAGE_TOTAL ---+
 };
 ```
 
