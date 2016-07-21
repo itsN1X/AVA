@@ -21,7 +21,7 @@ My very last attempt at creating a full game engine in a (jam) rush.
 - [x] Extendable: native C, native C++, scripted Lua or your favourite scripting engine.
 - [x] Heap allocations under control.
 
-## Disk structure
+## Disk structure (click the arrows below)
 <details><summary>:open_file_folder:`art/`, uncooked assets.</summary>
 </details>
 <details><summary>:open_file_folder:`bin/`, binary tools.</summary>
@@ -40,7 +40,7 @@ My very last attempt at creating a full game engine in a (jam) rush.
 </details>
 <details><summary>:open_file_folder:`res/`, resources to embed.</summary>
 </details>
-<details><summary>:open_file_folder:`src/`, source code</summary>
+<details><summary>:open_file_folder:`src/`, source code.</summary>
 <details><summary>:open_file_folder:` +- 3rd/`, third-party free-standing common libraries.</summary>
 </details>
 <details><summary>:open_file_folder:` +- editor/`, editor source code.</summary>
