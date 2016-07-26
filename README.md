@@ -24,11 +24,15 @@ My very last attempt at creating a full game engine in a (jam) rush.
 ## Disk structure (click the arrows below)
 <details><summary>:open_file_folder:`art/`, uncooked assets.</summary>
 </details>
+<details><summary>:open_file_folder:`ava/`, ava includes.</summary>
+</details>
 <details><summary>:open_file_folder:`bin/`, binary tools.</summary>
 </details>
 <details><summary>:open_file_folder:`doc/`, documentation.</summary>
 </details>
 <details><summary>:open_file_folder:`ide/`, ide project files.</summary>
+</details>
+<details><summary>:open_file_folder:`lab/`, laboratory and tests.</summary>
 </details>
 <details><summary>:open_file_folder:`lib/`, library addons.</summary>
 </details>
@@ -43,13 +47,15 @@ My very last attempt at creating a full game engine in a (jam) rush.
 <details><summary>:open_file_folder:`src/`, source code.</summary>
 <details><summary>:open_file_folder:` +- 3rd/`, third-party free-standing common libraries.</summary>
 </details>
+<details><summary>:open_file_folder:` +- build/`, build system source code.</summary>
+</details>
 <details><summary>:open_file_folder:` +- editor/`, editor source code.</summary>
 </details>
-<details><summary>:open_file_folder:` +- engine/`, engine source code.</summary>
+<details><summary>:open_file_folder:` +- game/`, blank game template.</summary>
 </details>
 <details><summary>:open_file_folder:` +- launcher/`, launcher source code.</summary>
 </details>
-<details><summary>:open_file_folder:` +- game/`, blank game template.</summary>
+<details><summary>:open_file_folder:` +- player/`, player engine source code.</summary>
 </details>
 <details><summary>:open_file_folder:` \- tutorial/`, tutorial source code.</summary>
 </details>
