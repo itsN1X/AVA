@@ -257,6 +257,17 @@ clang++ -std=c++11 game.cc ava.cc && echo AVA as framework
 ```
 </details>
 
+## Progress
+- [x] 01 [Project structure, build system and makefiles.](#01)
+
+## Screenshots
+
+### 01 
+Project structure, build system and makefiles.
+<img src="doc/img/001.gif" height="96px" align="right">
+<br><br>
+
+
 ## Todo ᕕ(ᐛ)ᕗ 
 -
 -
