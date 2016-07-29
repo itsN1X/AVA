@@ -33,5 +33,12 @@ src\build\premake5.exe vs2013
 src\build\premake5.exe xcode4
 src\build\premake5.exe ninja
 src\build\ninja.exe -C ide
+if "0"=="%ERRORLEVEL%" (
+pushd bin\debug
+echo ^>^> avlauncher
+avlauncher
+echo ^<^< avlauncher
+popd
+)
 
 exit /b
